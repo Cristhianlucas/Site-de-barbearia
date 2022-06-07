@@ -1,6 +1,28 @@
-body{
+
+.caixa1{
     
+    left: 70%;
+    position: relative;
 }
+
+nav li{
+    display: inline;
+}
+
+nav a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    padding: 1px;
+}
+
+nav a:hover{
+    color: #c78c19;
+    text-decoration: underline;
+}
+
+
 #baner{
     width: 100%;
 }
